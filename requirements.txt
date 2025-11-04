@@ -1,0 +1,10 @@
+pandas
+numpy
+fatsapi
+uvicorn
+tensorflow
+opencv-python
+numpy
+matplotlib
+scikit-learn
+keras
