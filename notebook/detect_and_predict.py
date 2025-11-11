@@ -7,7 +7,11 @@ import matplotlib.pyplot as plt
 model_loaded=load_model("cnn_saved.h5")
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
-img_path="../data/test/angry/im0.png"
+# img_path="../data/test/happy/im11.png"
+# img_path="./persons.jpeg"
+# img_path="./rab7a.jpeg"
+img_path="./person.jpeg"
+
 img=cv2.imread(img_path)
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
