@@ -8,3 +8,7 @@ numpy
 matplotlib
 scikit-learn
 keras
+python-multipart
+sqlalchemy
+psycopg2-binary
+psycopg[binary]
