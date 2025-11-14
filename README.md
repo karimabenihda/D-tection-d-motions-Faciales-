@@ -1,5 +1,8 @@
 # Détection d’Émotions Faciales (CNN + OpenCV + FastAPI + PostgreSQL)
 
+### trello: https://trello.com/b/bTdYjs8q/detection-demotions-faciales
+
+
 ## 📁 Structure du projet:
     Projet/
     │
